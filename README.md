@@ -2,7 +2,7 @@
 Ramneet Kaur
 Data Analyst
 analystramneet@gmail.com | DA121BS, Kent, UK | Full Working Rights | Provisional Driving License
-http://www.linkedin.com/in/ramneet-kaur-data-analyst | https://github.com/Ramneet64
+http://www.linkedin.com/in/ramneet-kaur-data-analyst | https://github.com/Ramneet64 |https://ramneet-kaur-data-analys-ajuksyn.gamma.site/
 PROFESSIONAL SUMMARY
 Analytically driven Data Analyst with bachelor’s in computer science and experience delivering insightful dashboards, performance
 reports, and data-driven recommendations. Skilled in SQL, Python, Tableau, Power BI, and statistical analysis, with a strong ability
